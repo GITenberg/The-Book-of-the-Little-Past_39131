@@ -1,0 +1,36 @@
+_repo: The-Book-of-the-Little-Past_39131
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Elliott, Elizabeth Shippen Green
+    alias: Green, Elizabeth Shippen
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '32016'
+    url: http://www.gutenberg.org/2009/agents/32016
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peabody, Josephine Preston
+    alias: Marks, Mrs. Lionel
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '3012'
+    url: http://www.gutenberg.org/2009/agents/3012
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: The Book of the Little Past
+url: http://www.gutenberg.org/ebooks/39131
