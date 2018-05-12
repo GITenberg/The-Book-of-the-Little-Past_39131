@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3012
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39131#The-Book-of-the-Little-Past
 gutenberg_issued: '2012-03-13'
 gutenberg_type: Text
 identifiers:
